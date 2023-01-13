@@ -1,6 +1,6 @@
 # Analise de vegetação
 
-## Companhia: BemAgro
+## Companhia: Bem Agro
 
 ### Objetivo do Projeto
 
