@@ -1,6 +1,6 @@
 # Analise de vegetação
 
-## Companhia: Bem Agro
+## Companhia: Bem Agro (hackaton)
 
 ### Objetivo do Projeto
 
